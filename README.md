@@ -31,24 +31,28 @@ A distinctive feature of `fp-ts` with respect to other functional libraries is i
 - [PureScript](https://www.purescript.org)
 - [Scala](https://www.scala-lang.org)
 
-# Sponsors
+# Sponsor
 
 <table>
   <tr>
     <td align="center">
       <a href="https://unsplash.com/">
-        <img src="https://avatars.githubusercontent.com/u/9951955?s=200&v=4" width="200px;" alt="Unsplash" />
+        <img src="https://i.imgur.com/iuDspbp.png" width="200px;" alt="Unsplash" />
       </a>
+    </td>
+    <td align="center">
       <br />
-      <b>Unsplash</b>
+      <b>PhotoRoom Remove Background API</b>
       <br />
-      <a href="https://unsplash.com/">https://unsplash.com/</a>
+      <a href="https://photoroom.com/apis/remove-background">https://photoroom.com/api</a>
       <br />
       <p width="200px">
-        The internet’s source for visuals.<br/>
-        Powered by creators everywhere.
+        Fast and accurate background remover API<br/>
+      </p>
+      <br/>
     </td>
   </tr>
+ 
 </table>
 
 # Installation
