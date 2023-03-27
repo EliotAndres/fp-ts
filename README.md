@@ -15,7 +15,7 @@ Functional programming in TypeScript
   <tr>
     <td align="center" vertical-align="center">
       <a href="https://photoroom.com/api/remove-background?utm_source=rembg&utm_medium=github_webpage&utm_campaign=sponsor" >
-        <img src="https://font-cdn.photoroom.com/media/api-logo.png" width="120px;" style="margin-top: 6px;"alt="PhotoRoom API Logo" />
+        <img src="https://font-cdn.photoroom.com/media/api-logo.png" width="120px;" style="margin-top: 6px;" alt="PhotoRoom API Logo" />
       </a>
     </td>
     <td align="center" vertical-align="center">
