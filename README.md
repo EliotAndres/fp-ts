@@ -8,48 +8,24 @@
 Functional programming in TypeScript
 </p>
 
-<p align="center">
-  <a href="https://github.com/gcanti/fp-ts/actions">
-    <img src="https://github.com/gcanti/fp-ts/actions/workflows/main.yml/badge.svg?branch=master" alt="build status" height="20">
-  </a>
-  <a href="https://www.npmjs.com/package/fp-ts">
-    <img src="https://img.shields.io/npm/dm/fp-ts.svg" alt="npm downloads" height="20">
-  </a>
-</p>
-
-# Introduction
-
-`fp-ts` is a library for _typed functional programming_ in TypeScript.
-
-`fp-ts` aims to allow developers to use _popular patterns and abstractions_ that are available in most functional languages. For this, it includes the most popular data types, type classes and abstractions such as [Option](https://gcanti.github.io/fp-ts/modules/Option.ts), [Either](https://gcanti.github.io/fp-ts/modules/Either.ts), [IO](https://gcanti.github.io/fp-ts/modules/IO.ts), [Task](https://gcanti.github.io/fp-ts/modules/Task.ts), [Functor](https://gcanti.github.io/fp-ts/modules/Functor.ts), [Applicative](https://gcanti.github.io/fp-ts/modules/Applicative.ts), [Monad](https://gcanti.github.io/fp-ts/modules/Monad.ts) to empower users to write pure FP apps and libraries built atop higher order abstractions.
-
-A distinctive feature of `fp-ts` with respect to other functional libraries is its implementation of [Higher Kinded Types](<https://en.wikipedia.org/wiki/Kind_(type_theory)>), which TypeScript doesn't support natively.
-
-**Inspired by**
-
-- [Haskell](https://www.haskell.org)
-- [PureScript](https://www.purescript.org)
-- [Scala](https://www.scala-lang.org)
 
 # Sponsor
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://unsplash.com/">
-        <img src="https://i.imgur.com/iuDspbp.png" width="200px;" alt="Unsplash" />
+    <td align="center" vertical-align="center">
+      <a href="https://unsplash.com/" >
+        <img src="https://font-cdn.photoroom.com/media/api-logo.png" width="120px;" alt="Unsplash" />
       </a>
     </td>
-    <td align="center">
-      <br />
+    <td align="center" vertical-align="center">
       <b>PhotoRoom Remove Background API</b>
       <br />
-      <a href="https://photoroom.com/apis/remove-background">https://photoroom.com/api</a>
+      <a href="https://photoroom.com/apis/remove-background?utm_source=rembg&utm_medium=github_webpage&utm_campaign=sponsor">https://photoroom.com/api</a>
       <br />
       <p width="200px">
         Fast and accurate background remover API<br/>
       </p>
-      <br/>
     </td>
   </tr>
  
